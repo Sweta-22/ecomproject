@@ -1,0 +1,45 @@
+{
+    "product": [
+      { "id": 1, 
+        "name": "shirt",
+        "category_id":5,
+        "description":"description here",
+        "price":399,
+        "is+available":true,
+        "rating":4,
+        "reviews":150,
+        "vendor_name":"ab shop",
+        "warenty":1
+       },
+       { "id": 2, 
+        "name": "shirt2",
+        "category_id":4,
+        "description":"description here",
+        "price":899,
+        "is_available":true,
+        "rating":8,
+        "reviews":158,
+        "vendor_name":"abb shop",
+        "warenty":1
+       },
+       { "id": 3, 
+        "name": "shirt5",
+        "category_id":4,
+        "description":"description here",
+        "price":399,
+        "is+available":true,
+        "rating":4,
+        "reviews":150,
+        "vendor_name":"ab shop",
+        "warenty":1
+       }            
+  
+    ],
+    "comments": [
+      { "id": 1, "body": "some comment", "postId": 1 },
+      { "id": 2, "body": "some comment", "postId": 1 }
+    ],
+    "profile": {
+      "name": "typicode"
+    }
+  }
